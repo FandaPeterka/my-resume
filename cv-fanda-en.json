@@ -1,0 +1,494 @@
+{
+  "basics": {
+    "name": "František Peterka",
+    "headline": "Software Developer | IT Specialist",
+    "email": "frantisek.peterka2@gmail.com",
+    "phone": "",
+    "location": "Czech Republic | Brno",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [
+      {
+        "id": "hr9ds41866l1quiis13fvo0e",
+        "icon": "cat",
+        "name": "Github",
+        "value": "https://github.com/FandaPeterka"
+      },
+      {
+        "id": "rz1pjh6bfzl01lr63q6ewi5l",
+        "icon": "link",
+        "name": "LinkedIn",
+        "value": "https://www.linkedin.com/in/frantisek-peterka-a36142337/"
+      }
+    ],
+    "picture": {
+      "url": "https://storage.rxresu.me/cmcksaabl0fxm1980db3xrzni/pictures/h43z85nszkor643gfldlgi5c.jpg",
+      "size": 128,
+      "aspectRatio": 1,
+      "borderRadius": 9999,
+      "effects": {
+        "hidden": false,
+        "border": true,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<h2><strong><u>About</u></strong></h2><p>I’m a 23-year-old software developer with a background in IT and military service.<br>My focus is on maintainable code and a deep understanding of system behavior.<br>Full-stack development, system administration, and constant learning are at the core of what I do.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "l1qmuxw1g39n0iqcxdc1ag40",
+          "visible": true,
+          "institution": "Unicorn University",
+          "studyType": "Bachelor's degree",
+          "area": "Computer Software Engineering",
+          "score": "",
+          "date": "Sep 2023 - 2026",
+          "summary": "<p>Studying software engineering with a focus on modern web development.<br>Working on interactive web applications using component-based architecture, client-server communication, and practical use of version control and agile workflows.<br>Combining frontend and backend knowledge to build applications that are both functional and maintainable.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "txoxsr6nao8ahw4q3mvwjuo3",
+          "visible": true,
+          "institution": "University of Defense",
+          "studyType": "Engineer's degree",
+          "area": "Electronics and Communications",
+          "score": "",
+          "date": "Aug 2021 - Jul 2023",
+          "summary": "<p>Studied Electrical Engineering with a strong focus on electronics, mathematics, and physics.<br>Achieved top results with a GPA equivalent of 4.0 across three semesters.<br>Although I had to leave in the fourth semester due to health reasons, the technical and analytical skills I gained continue to support my work in IT and software development.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "r8cv3vzoig2lxsgahbjbhqli",
+          "visible": true,
+          "company": "Czech Army",
+          "position": "IT Specialist",
+          "location": "Vyškov, South Moravia, Czechia",
+          "date": "Aug 2023 - Present",
+          "summary": "<p>IT Specialist working in a military environment, focused on system and network administration.<br>Experienced with Windows Server, Linux, network infrastructure, and automation using PowerShell.<br>Ensure stable and secure systems for demanding training operations.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "rudysw7urwt23twu92h1i0x5",
+          "visible": true,
+          "name": "Fitness",
+          "keywords": []
+        },
+        {
+          "id": "t6ye8ypdyfudpwliaqmeygy1",
+          "visible": true,
+          "name": "Stoicism",
+          "keywords": []
+        },
+        {
+          "id": "g1pj3ftt4zf0zv60gn3o84oa",
+          "visible": true,
+          "name": "Karaoke",
+          "keywords": []
+        },
+        {
+          "id": "hrsetli46gmfmckaxd0ejyjk",
+          "visible": true,
+          "name": "Running",
+          "keywords": []
+        },
+        {
+          "id": "hi6orl2xy0a5zghwf7dmq7z8",
+          "visible": true,
+          "name": "Board games",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "kre5t38l1nv6bajywqajlihd",
+          "visible": true,
+          "name": "Czech",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "mosynjn0p80toadv3xmj8541",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "s3mx4ov96j5sapl3vblgxl9g",
+          "visible": true,
+          "name": "German",
+          "description": "",
+          "level": 2
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": []
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "cn0ho60xxj173ptcb8xrx8j1",
+          "visible": true,
+          "name": "Frontend Development",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "ib6exdapkzb00ks84gl1i2l2",
+          "visible": true,
+          "name": "Backend Development",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "vhrw2k3s3x0ztwitldl2xl6v",
+          "visible": true,
+          "name": "Linux",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "qudmcpgpxc8meyn0377bsrcx",
+          "visible": true,
+          "name": "JavaScript",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "e88ffcarbmcc0viwoe5ujuch",
+          "visible": true,
+          "name": "Next.js",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "rwfgmvxej4y6m2jb8rmb67up",
+          "visible": true,
+          "name": "React",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "sf0fpqr66611ixr0ekbhhbtd",
+          "visible": true,
+          "name": "Node.js",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "oqpzoro98jrtribw78djowym",
+          "visible": true,
+          "name": "HTML",
+          "description": "",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "rstq1dfpqzjtiycj3pddb7b1",
+          "visible": true,
+          "name": "CSS",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "avtljj82fvgfdrop767xdy8u",
+          "visible": true,
+          "name": "MongoDB",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "cthin4017r233qqqnjlobr18",
+          "visible": true,
+          "name": "SQL",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "ak6zz2ctannk1i8dbfi30jmm",
+          "visible": true,
+          "name": "Git",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "eyf15z78jn012jvtxu1xk2an",
+          "visible": true,
+          "name": "PowerShell",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "vvw3qgqb8f0k1wdrxx8me7cn",
+          "visible": true,
+          "name": "Windows Server",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "tjit67ixrjvc3bi1fy0hti79",
+          "visible": true,
+          "name": "Windows Administration",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "allawev3esx9ok0e51ftdgrv",
+          "visible": true,
+          "name": "Network Administration",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {
+      "rh2hceftr0c1vbqd3b8qss8p": {
+        "name": "Courses",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "rh2hceftr0c1vbqd3b8qss8p",
+        "items": [
+          {
+            "id": "c87uv80mvp4d3kvzoyzg3lm1",
+            "visible": true,
+            "name": " Advanced PowerShell Scripting for Administrators",
+            "description": "GOC179",
+            "date": "2024",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "iq9q0g6bgogjy6ybq39o2tzl",
+            "visible": true,
+            "name": " Exchange 2019 – Deployment and Management",
+            "description": "GOC231",
+            "date": "2024",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "d0zlr420tf8nojcwwzkd9d7e",
+            "visible": true,
+            "name": " PowerShell and PowerShell Core Fundamentals",
+            "description": "GOC216",
+            "date": "2024",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "mcc2jl02p7e727yb91esbyff",
+            "visible": true,
+            "name": "Windows Server 2022/2019/2016 – Security Management",
+            "description": "GOC175",
+            "date": "2024",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "template": "gengar",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references",
+          "custom.rh2hceftr0c1vbqd3b8qss8p"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#0b66c2"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}

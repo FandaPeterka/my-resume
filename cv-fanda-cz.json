@@ -1,0 +1,494 @@
+{
+  "basics": {
+    "name": "František Peterka",
+    "headline": "Softwarový Vývojář | IT Specialista",
+    "email": "frantisek.peterka2@gmail.com",
+    "phone": "",
+    "location": "Czech Republic | Brno",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [
+      {
+        "id": "g8v02kttga10ut6t6xvzfzlf",
+        "icon": "cat",
+        "name": "Github",
+        "value": "https://github.com/FandaPeterka"
+      },
+      {
+        "id": "n5lose5v8kkf7866c1hx7gaj",
+        "icon": "link",
+        "name": "LinkedIn",
+        "value": "https://www.linkedin.com/in/frantisek-peterka-a36142337/"
+      }
+    ],
+    "picture": {
+      "url": "https://storage.rxresu.me/cmcksaabl0fxm1980db3xrzni/pictures/b8y4eujvrmml68xnjinki94z.jpg",
+      "size": 128,
+      "aspectRatio": 1,
+      "borderRadius": 9999,
+      "effects": {
+        "hidden": false,
+        "border": true,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<h2><u>O mně</u></h2><p>Je mi 23 let, jsem IT specialista a softwarový vývojář. <br>Mám zkušenosti s tvorbou webových aplikací i správou počítačových sítí. <br>Neustále se učím a zlepšuji ve svém oboru.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Vzdělání",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "plx5fersctnthdey07y21hip",
+          "visible": true,
+          "institution": "Unicorn University",
+          "studyType": "Bakalářský titul",
+          "area": "Softwarový Vývoj",
+          "score": "",
+          "date": "Září 2023 - 2026",
+          "summary": "<p>Studuji softwarový vývoj se zaměřením na moderní vývoj webových aplikací.<br>Věnuji se tvorbě uživatelského rozhraní i serverové části, práci s daty a návrhu funkčních a udržitelných řešení.<br>Používám osvědčené nástroje a postupy, verzovací systémy a agilní metody vývoje.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "xoot5qj9gcxkv58rsr7sw2aw",
+          "visible": true,
+          "institution": "Univerzita Obrany",
+          "studyType": "Inženýrský titul",
+          "area": "Elektrotechnika",
+          "score": "",
+          "date": "Září 2021 - červenec 2023",
+          "summary": "<p>Studoval jsem elektrotechniku se zaměřením na elektroniku, matematiku a fyziku.<br>Během tří semestrů jsem dosahoval výborných výsledků (ekvivalent GPA 4.0).<br>Ve čtvrtém semestru jsem musel studium ze zdravotních důvodů přerušit, ale získané technické a analytické dovednosti dál využívám v IT a softwarovém vývoji.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Zkušenosti",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "guqosbp8h3j71sc1u9onlclt",
+          "visible": true,
+          "company": "Armáda ČR",
+          "position": "IT Specialista",
+          "location": "Vyškov, Jižní Morava, Česko",
+          "date": "Srpen 2023 - Přítomnost",
+          "summary": "<p>Pracuji jako IT specialista v armádně, kde se zaměřuji na správu systémů a sítí. <br>Mám zkušenosti s Windows Serverem, Linuxem, správou síťové infrastruktury a automatizací pomocí PowerShellu.<br>Zajišťuji stabilní a bezpečné prostředí pro výcvikové a simulační systémy.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Zájmy",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "s77lbtvfdrgxx220f4akhs1o",
+          "visible": true,
+          "name": "Fitness",
+          "keywords": []
+        },
+        {
+          "id": "mmfrw8cy7yvbbf9w08rk5wmr",
+          "visible": true,
+          "name": "Stoicismus",
+          "keywords": []
+        },
+        {
+          "id": "nbb1jcm0f7a42ns5o5tn7bm1",
+          "visible": true,
+          "name": "Karaoke",
+          "keywords": []
+        },
+        {
+          "id": "ma289fhgioyojfl846fbsolp",
+          "visible": true,
+          "name": "Běh",
+          "keywords": []
+        },
+        {
+          "id": "nuq8ud4amzyspxil9w43o2dt",
+          "visible": true,
+          "name": "Deskové hry",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "Jazyky",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "fdjg7fxwlt2dz3h49g3ny5dk",
+          "visible": true,
+          "name": "Čeština",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "idx7x7s43qcd7wmmsxy2kh6s",
+          "visible": true,
+          "name": "Angličtina",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "cjomrhl494hc89wfg5bbsped",
+          "visible": true,
+          "name": "Němčina",
+          "description": "",
+          "level": 2
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": []
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Schopnosti",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "e9suxh2nsqruhxammrfeazl6",
+          "visible": true,
+          "name": "Vývoj frontendu",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "s5lle2l8l2gg8fpcnfuou0fd",
+          "visible": true,
+          "name": "Vývoj backendu",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "j2nnfv85qqe9iz2w84ss98rq",
+          "visible": true,
+          "name": "Linux",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "qykxa929vr5cy8k88juhar4h",
+          "visible": true,
+          "name": "JavaScript",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "b7h2bxo56b8lhwnj69y2y8af",
+          "visible": true,
+          "name": "Next.js",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "of1in2nj5ujbur548pdff6wj",
+          "visible": true,
+          "name": "React",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "l5krk0xev8gqn3z314f21dom",
+          "visible": true,
+          "name": "Node.js",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "c2kh4ekckhzan4g6lj3xq8ej",
+          "visible": true,
+          "name": "HTML",
+          "description": "",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "khobmux9wmf9kj1i1f0v0hlw",
+          "visible": true,
+          "name": "CSS",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "n3poxs7jsqjr13xbd9e08qmq",
+          "visible": true,
+          "name": "MongoDB",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "khm7ey9n85zgdoqpw707b3jr",
+          "visible": true,
+          "name": "SQL",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "yyy2905857cdrocxa0t5owag",
+          "visible": true,
+          "name": "Git",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "oxc9lm6p4d05m0zlrvn4yrq0",
+          "visible": true,
+          "name": "PowerShell",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "y1zg8790pmm07as63u4gjf14",
+          "visible": true,
+          "name": "Windows server",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "uu6dj5sukos1bc4pndlqu0wr",
+          "visible": true,
+          "name": "Správa Windows",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "nketpcfysrsscdif7zw9atfi",
+          "visible": true,
+          "name": "Správa sítě",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {
+      "b46dhyrbas1gl1t436wz2bhc": {
+        "name": "Kurzy",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "b46dhyrbas1gl1t436wz2bhc",
+        "items": [
+          {
+            "id": "bsnc54duptm72v9gxb1x032d",
+            "visible": true,
+            "name": "Pokročilé skriptování v PowerShell pro administrátory",
+            "description": "GOC179",
+            "date": "2024",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "gqapq0zqxmfx54j9eawanz32",
+            "visible": true,
+            "name": "Exchange 2019 - Správa a nasazení",
+            "description": "GOC231",
+            "date": "2024",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "tk2hxvzfpidt7wouv64qzf55",
+            "visible": true,
+            "name": "Základy PowerShell",
+            "description": "GOC216",
+            "date": "2024",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "jsk1l7n1charple8jqy2igv4",
+            "visible": true,
+            "name": "Windows Server 2022/2019/2016 - Správa bezpečnosti",
+            "description": "GOC175",
+            "date": "2024",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "template": "gengar",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references",
+          "custom.b46dhyrbas1gl1t436wz2bhc"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#0b66c2"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
